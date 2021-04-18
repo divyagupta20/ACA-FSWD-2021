@@ -4,4 +4,4 @@
 - UNDER 
   - KARTIKEYA
   - KETAN CHATURVEDI
-![Cyberpunk2077](https://www.epicgames.com/store/en-US/news/the-cyberpunk-2077-release-date-is-december-10?lang=en-US)
+![Cyberpunk2077](https://cdn.pixabay.com/photo/2020/12/20/21/17/city-5848267_1280.jpg)
