@@ -5,7 +5,7 @@
 
  ##  UNDER 
    - `KARTIKEYA`
-   - `KETAN CHATURVEDI`
    - `PRIYANSHU YADAV`
+   - `KETAN CHATURVEDI`
  ---------
 ![Cyberpunk2077](https://cdn.pixabay.com/photo/2020/12/20/21/17/city-5848267_1280.jpg)
