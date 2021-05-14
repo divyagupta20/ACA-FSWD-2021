@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    body {
+           background-color: slategrey;
+           background-image:linear-gradient(to right,rgb(230, 61, 31),black, rgb(57, 136, 253));
+          }
+    section
+    {
+        display: flex;
+        justify-content: center;
+    }
+    #a
+    {
+        font-size: 350%;
+        font-family: fantasy;
+        color:  rgb(230, 61, 31);
+        margin-right: 30px;
+    }
+    #b
+    {
+        color :rgb(236, 228, 228);
+        font-size: 350%;
+        font-family:fantasy;
+        margin-right: 30px;
+    }
+    #c
+    {   
+        font-size: 350%;
+        font-family: fantasy;
+        color: rgb(73, 142, 245);
+        margin-right: 90px;
+    }
+    img
+    {
+        border:5px solid snow;
+    }
+    h1
+    {
+        color :rgb(235, 219, 219);
+        font-size: 280%;
+        font-family:fantasy;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <section>
+        <div id="a">Choose</div>
+        <div id="b"> Your</div>
+        <div id="c"> Side</div>
+    </section>
+    <div style="display: flex;justify-content: center;align-items: center;">
+    <img src="GvsK.jpg" style="width:960px;height:540px;" usemap="#only" >
+    </div>
+    <map name="only">
+        <area shape="rect" coords="0,0,480,540" href="Kong.html" onclick="Kong()">
+        <area shape="rect" coords="480,0,960,540" href="godzilla.html" onclick="Godzilla()">
+    </map>
+    <script>
+        function Godzilla() {
+          alert("You choosed #TEAM GODZILLA");
+        }
+        function Kong() {
+          alert("You choosed #TEAM KONG");
+        }
+        </script>
+    <h1>
+        One Will Fall
+    </h1>
+</body>
+</html>
